@@ -1,0 +1,15 @@
+C:\Users\edson\Desktop\LadosDoTriangulo\obj\Debug\netcoreapp3.1\LadosDoTriangulo.csprojAssemblyReference.cache
+C:\Users\edson\Desktop\LadosDoTriangulo\obj\Debug\netcoreapp3.1\LadosDoTriangulo.Form1.resources
+C:\Users\edson\Desktop\LadosDoTriangulo\obj\Debug\netcoreapp3.1\LadosDoTriangulo.csproj.GenerateResource.cache
+C:\Users\edson\Desktop\LadosDoTriangulo\obj\Debug\netcoreapp3.1\LadosDoTriangulo.AssemblyInfoInputs.cache
+C:\Users\edson\Desktop\LadosDoTriangulo\obj\Debug\netcoreapp3.1\LadosDoTriangulo.AssemblyInfo.cs
+C:\Users\edson\Desktop\LadosDoTriangulo\obj\Debug\netcoreapp3.1\LadosDoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\edson\Desktop\LadosDoTriangulo\bin\Debug\netcoreapp3.1\LadosDoTriangulo.exe
+C:\Users\edson\Desktop\LadosDoTriangulo\bin\Debug\netcoreapp3.1\LadosDoTriangulo.deps.json
+C:\Users\edson\Desktop\LadosDoTriangulo\bin\Debug\netcoreapp3.1\LadosDoTriangulo.runtimeconfig.json
+C:\Users\edson\Desktop\LadosDoTriangulo\bin\Debug\netcoreapp3.1\LadosDoTriangulo.runtimeconfig.dev.json
+C:\Users\edson\Desktop\LadosDoTriangulo\bin\Debug\netcoreapp3.1\LadosDoTriangulo.dll
+C:\Users\edson\Desktop\LadosDoTriangulo\bin\Debug\netcoreapp3.1\LadosDoTriangulo.pdb
+C:\Users\edson\Desktop\LadosDoTriangulo\obj\Debug\netcoreapp3.1\LadosDoTriangulo.dll
+C:\Users\edson\Desktop\LadosDoTriangulo\obj\Debug\netcoreapp3.1\LadosDoTriangulo.pdb
+C:\Users\edson\Desktop\LadosDoTriangulo\obj\Debug\netcoreapp3.1\LadosDoTriangulo.genruntimeconfig.cache
