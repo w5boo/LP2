@@ -1,0 +1,17 @@
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\bin\Debug\netcoreapp3.1\Pclasses.exe
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\bin\Debug\netcoreapp3.1\Pclasses.deps.json
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\bin\Debug\netcoreapp3.1\Pclasses.runtimeconfig.json
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\bin\Debug\netcoreapp3.1\Pclasses.runtimeconfig.dev.json
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\bin\Debug\netcoreapp3.1\Pclasses.dll
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\bin\Debug\netcoreapp3.1\Pclasses.pdb
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.csprojAssemblyReference.cache
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.Form1.resources
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.frmHorista.resources
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.frmMensalista.resources
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.csproj.GenerateResource.cache
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.AssemblyInfoInputs.cache
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.AssemblyInfo.cs
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.csproj.CoreCompileInputs.cache
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.dll
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.pdb
+D:\Arquivos\Edson\Faculdade\FATEC\ADS\2º semestre\Linguagem de Programação II - Linguagem Visual Basic (VB)\Atividades\Pclasses\obj\Debug\netcoreapp3.1\Pclasses.genruntimeconfig.cache
